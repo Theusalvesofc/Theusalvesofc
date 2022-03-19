@@ -1,5 +1,5 @@
 ### Olá Devs  👋
-Estou começando agora nesse mundo da Programação.
+Estou começando nesse mundo da Programação.
 ( Eng.software )
 - Areás de conhecimento </br>
  .HTML</br>
@@ -8,6 +8,9 @@ Estou começando agora nesse mundo da Programação.
  .bootstrap</br>
  .Mysql</br>
  .Lógica de Progrmação</br>
+ 
+ 
+ [![Blog](	https://img.shields.io/website-up-down-green-red/http/monip.org.svg)]
 
 <div align="center">
   <a href="https://github.com/theusalvesofc">
