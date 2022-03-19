@@ -22,6 +22,8 @@ Começando nesse mundo da Programação.</br>
  <img align="center" alt="msql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   
  </div>
+ </br>
+ ## Sigo aprendendo.
  
  
  
