@@ -11,6 +11,12 @@ Começando nesse mundo da Programação.</br>
 
 ![theusalvesofc GitHub stats](https://github-readme-stats.vercel.app/api?username=theusalvesofc&show_icons=true&theme=dark)
 
+### Tecnologias do meu dia.
+
+<div style="display: inline_block"></br>
+ <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ </div>
+
 <div align="center">
   <a href="https://github.com/theusalvesofc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theusalvesofc&show_icons=&theme=dark&include_all_commits=true&count_private=true"/>
