@@ -9,7 +9,7 @@ Começando nesse mundo da Programação.</br>
  
 </div>
 
-![theusalvesofc GitHub stats](https://github-readme-stats.vercel.app/api?username=theusalvesofc&show_icons=true&theme=radical)
+![theusalvesofc GitHub stats](https://github-readme-stats.vercel.app/api?username=theusalvesofc&show_icons=true&theme=dark)
 
 <div align="center">
   <a href="https://github.com/theusalvesofc">
