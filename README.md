@@ -1,8 +1,13 @@
-### Olá Eu sou Matheus Alves ou Theusalvesofc 👋
-Estudante de Eng.software
-- 🔭 Dev  Front-End
-- 🌱 Estudante
-- 😄 Ele/Dele
+### Olá Devs  👋
+Estou começando agora nesse mundo da Programação.
+( Eng.software )
+- Areás de conhecimento 
+ .HTML
+ .CSS
+ .JavaScript
+ .bootstrap
+ .Mysql
+ .Lógica de Progrmação
 
 <div align="center">
   <a href="https://github.com/theusalvesofc">
