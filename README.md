@@ -1,13 +1,13 @@
 ### Olá Devs  👋
 Estou começando agora nesse mundo da Programação.
 ( Eng.software )
-- Areás de conhecimento 
- .HTML
+- Areás de conhecimento </br>
+ .HTML</br>
  .CSS</br>
- .JavaScript
- .bootstrap
- .Mysql
- .Lógica de Progrmação
+ .JavaScript</br>
+ .bootstrap</br>
+ .Mysql</br>
+ .Lógica de Progrmação</br>
 
 <div align="center">
   <a href="https://github.com/theusalvesofc">
