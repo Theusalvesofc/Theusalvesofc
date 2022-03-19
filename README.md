@@ -10,7 +10,6 @@ Começando nesse mundo da Programação.</br>
 </div>
 
 ![theusalvesofc GitHub stats](https://github-readme-stats.vercel.app/api?username=theusalvesofc&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theusalvesofc)](https://github.com/theusalvesofc/github-readme-stats)
 
 ### Tecnologias do meu dia.
 
